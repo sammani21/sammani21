@@ -21,7 +21,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,nestjs,flutter,reactnative,ts,js,html,css,mongodb,postgres,git,figma,firebase,dart,androidstudio,tailwind,bitbucket,firebase,jest,postman" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,nestjs,flutter,ts,js,html,css,mongodb,postgres,git,figma,firebase,dart,androidstudio,tailwind,bitbucket,firebase,jest,postman" />
 </p>
 
 ---
@@ -54,11 +54,23 @@
 
 ## 📢 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/kavindhya-sammani-rajasooriya-220188268" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
-<a href="https://medium.com/@kavindhyasammani" target="blank"><img align="center" src="https://skillicons.dev/icons?i=medium" alt="medium" height="40" width="40" /></a>
-<a href="http://www.youtube.com/@kavindhyasammanirajasooriy8629" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="youtube" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/rajasooriyaks_21" target="blank"><img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="hackerrank" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/kavindhya-sammani-rajasooriya-220188268" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@kavindhyasammani" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="medium" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://www.youtube.com/@kavindhyasammanirajasooriy8629" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/rajasooriyaks_21" target="_blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628645-3030025.png" alt="hackerrank" height="40" width="40" />
+  </a>
 </p>
+
 
 ---
 
