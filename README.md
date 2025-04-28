@@ -124,7 +124,8 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
     "Code transforms ideas into reality. The challenge isn't just writing code that works, but crafting it in a way that remains elegant through evolution."
   </blockquote>
   <i>— Sammani Rajasooriya</i>
-</div>
+<br/><br/>
+
 
   <p>🤝 <b>Let's connect and build something amazing together!</b> 🚀</p>
 </div>
