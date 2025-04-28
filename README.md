@@ -1,41 +1,75 @@
 <h1 align="center">Hi 👋, I'm Sammani Rajasooriya</h1>
-<h3 align="center">A passionate Software Engineering Enthusiast from University of Moratuwa</h3>
+<h3 align="center">🚀 A Passionate Software Engineering Enthusiast from University of Moratuwa 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammani21" alt="sammani21" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-- 🔭 I’m currently working on **👩‍🎓 BSc. (Hons) in Information Technology and Management at the University of Moratuwa 🚀 Software Engineering Intern**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammani21&label=Profile%20views&color=0e75b6&style=flat" alt="sammani21" /> </p>
 
-- 🌱 I’m currently learning **I’m expanding my expertise in full-stack development and software engineering, focusing on tools like React, NestJS, Flutter, and TypeScript, along with database management using MongoDB and PostgreSQL. I’m also refining my skills in system optimization, user experience, and layered architecture, applying these to projects that enhance efficiency and connectivity across various domains. Excited to keep growing and tackling new challenges!**
+---
 
-- 👯 I’m looking to collaborate on **I’m open to collaborating on projects in software engineering, full-stack development, and web and mobile app development. With a strong foundation in Java, React, Node.js, and database management, I’m ready to bring technical expertise and innovative problem-solving to meaningful projects. Let’s build scalable, user-centered solutions together!**
+- 🎓 **Undergraduate:** BSc. (Hons) in Information Technology and Management, University of Moratuwa
+- 🔭 **Current Internship:** Software Engineering Intern
+- 🌱 **Learning:** Full-stack Development (React, NestJS, Flutter, TypeScript) | MongoDB | PostgreSQL | Cloud | Scalable Systems
+- 👯 **Open to Collaborate:** Web & Mobile App Development | Open Source Projects | Scalable Software Solutions
+- 🤝 **Looking for Mentorship:** Advanced Software Architecture | Cloud Infrastructure | Microservices
+- 📝 **Articles on:** [Medium Blog](https://medium.com/@KavindhyaSammani)
+- 💬 **Ask me about:** Java | React | Node.js | Flutter | System Design
+- 📫 **Reach me at:** kavisamrajasooriya@gmail.com
+- ⚡ **Fun Fact:** Always coding, sometimes baking 🍰!
 
-- 🤝 I’m looking for help with **I’m eager to gain insights and mentorship in advanced software architecture, cloud infrastructure, and scaling full-stack applications. If you have experience in these areas or in contributing to impactful open-source projects, I’d be thrilled to connect and learn from your expertise!**
+---
 
-- 👨‍💻 All of my projects are available at [https://sammani21.github.io/sammaniRajasooriya-portfoliosite/](https://sammani21.github.io/sammaniRajasooriya-portfoliosite/)
+## 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,nestjs,flutter,ts,js,html,css,mongodb,postgres,git,figma,firebase,dart,androidstudio,linux,tailwind" />
+</p>
 
-- 📝 I regularly write articles on [https://medium.com/@KavindhyaSammani](https://medium.com/@KavindhyaSammani)
+---
 
-- 📫 How to reach me **kavisamrajasooriya@gmail.com**
+## 🔥 GitHub Stats:
 
-### Blogs posts
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammani21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammani21&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammani21&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages" height="200"/>
+</p>
+
+---
+
+## 🏆 Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sammani21&theme=radical&row=2&column=4" alt="Trophies" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📢 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavindhya-sammani-rajasooriya-220188268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavindhya-sammani-rajasooriya-220188268/" height="30" width="40" /></a>
-<a href="https://medium.com/@kavindhyasammani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kavindhyasammani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@kavindhyasammanirajasooriy8629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@kavindhyasammanirajasooriy8629" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rajasooriyaks_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rajasooriyaks_21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kavindhya-sammani-rajasooriya-220188268" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
+<a href="https://medium.com/@kavindhyasammani" target="blank"><img align="center" src="https://skillicons.dev/icons?i=medium" alt="medium" height="40" width="40" /></a>
+<a href="http://www.youtube.com/@kavindhyasammanirajasooriy8629" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="youtube" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/rajasooriyaks_21" target="blank"><img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="hackerrank" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammani21&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="sammani21" /></p>
+## ✨ Fun Animations:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammani21&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="sammani21" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+App+Developer;Backend+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammani21&hide_border=true" alt="sammani21" /></p>
+---
 
+> "Code is like humor. When you have to explain it, it’s bad." — *Sammani Rajasooriya*
 
+---
