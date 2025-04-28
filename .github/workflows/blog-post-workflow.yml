@@ -7,8 +7,8 @@ on:
 
 jobs:
   update-readme:
-    name: Update README.md
-    runs-on: ubuntu-latest
+    name: Update README
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
 
