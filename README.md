@@ -69,7 +69,12 @@
   <a href="https://www.hackerrank.com/rajasooriyaks_21" target="_blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628645-3030025.png" alt="hackerrank" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://sammani21.github.io/sammaniRajasooriya-portfoliosite/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="40" width="40" />
+  </a>
 </p>
+
 
 
 ---
