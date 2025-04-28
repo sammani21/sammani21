@@ -9,7 +9,7 @@
 
 - 🎓 **Undergraduate:** BSc. (Hons) in Information Technology and Management, University of Moratuwa
 - 🔭 **Current Internship:** Software Engineering Intern
-- 🌱 **Learning:** Full-stack Development (React, NestJS, Flutter, TypeScript) | MongoDB | PostgreSQL | Cloud | Scalable Systems
+- 🌱 **Learning:** Full-stack Development (React, NodeJS, Flutter, TypeScript) | MongoDB | PostgreSQL | Cloud | Scalable Systems
 - 👯 **Open to Collaborate:** Web & Mobile App Development | Open Source Projects | Scalable Software Solutions
 - 🤝 **Looking for Mentorship:** Advanced Software Architecture | Cloud Infrastructure | Microservices
 - 📝 **Articles on:** [Medium Blog](https://medium.com/@KavindhyaSammani)
@@ -21,7 +21,7 @@
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,nestjs,flutter,ts,js,html,css,mongodb,postgres,git,figma,firebase,dart,androidstudio,linux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,nestjs,flutter,reactnative,ts,js,html,css,mongodb,postgres,git,figma,firebase,dart,androidstudio,tailwind,bitbucket,firebase,jest,postman" />
 </p>
 
 ---
