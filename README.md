@@ -46,12 +46,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
----
 
 ## 📢 Connect with me:
 <p align="left">
