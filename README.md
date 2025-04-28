@@ -125,10 +125,10 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
   </blockquote>
   <i>— Sammani Rajasooriya</i>
 </div>
-
+/*
 <div align="center">
   <img src="https://github.com/sammani21/sammani21/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-  <br/><br/>
+  <br/><br/> */
   <p>🤝 <b>Let's connect and build something amazing together!</b> 🚀</p>
 </div>
