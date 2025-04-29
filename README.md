@@ -15,8 +15,9 @@
 </div>
 
 <div align="right">
-  <img align="right" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" />
+  <img align="right" width="380" src="https://raw.githubusercontent.com/rajasekar-dev/rajasekar-dev/main/assets/coding.gif" alt="Professional Coding Animation" />
 </div>
+
 
 ## 💫 About Me
 
