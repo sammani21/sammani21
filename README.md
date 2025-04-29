@@ -84,12 +84,13 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammani21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="175px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sammani21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="175px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammani21&theme=tokyonight&hide_border=true&background=0D1117" height="175px"/>
-  </p>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammani21&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175px"/>
 </p>
+
 
 ## 🏆 GitHub Achievements
 
