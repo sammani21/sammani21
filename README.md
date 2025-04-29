@@ -14,9 +14,17 @@
   <img src="https://komarev.com/ghpvc/?username=sammani21&style=for-the-badge&color=6C63FF" alt="Profile Views" />
 </div>
 
-<div align="right">
-  <img align="right" width="380" src="https://raw.githubusercontent.com/rajasekar-dev/rajasekar-dev/main/assets/coding.gif" alt="Professional Coding Animation" />
+<div align="center" style="margin-top: -40px;">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Woman in Tech Animation" />
 </div>
+
+
+
+
+
+
+
+
 
 
 ## 💫 About Me
