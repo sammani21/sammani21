@@ -1,15 +1,20 @@
-// Global Variables
+// Game Constants
+const canvas = document.getElementById("game-canvas");
+const ctx = canvas.getContext("2d");
+const gridSize = 30;
+const tileSize = 10;
+
 let gameInterval;
-let snake;
-let food;
+let snake = [];
+let food = {};
 let direction = "right";
 let score = 0;
 let gameStarted = false;
-let leaderboard = JSON.parse(localStorage.getItem('leaderboard')) || [];
+let leaderboard = JSON.parse(localStorage.getItem("leaderboard")) || [];
 let isDarkMode = false;
+let lastKeyPress = null;
 
-// Game Elements
-const canvas = document.getElementById("game-canvas");
+// Elements
 const scoreDisplay = document.getElementById("score");
 const startBtn = document.getElementById("startBtn");
 const themeToggle = document.getElementById("themeToggle");
@@ -17,94 +22,121 @@ const leaderboardList = document.getElementById("scoreList");
 const bgMusic = document.getElementById("bg-music");
 const gameSound = document.getElementById("game-sound");
 
-// Start the game
+// Setup canvas size
+canvas.width = gridSize * tileSize;
+canvas.height = gridSize * tileSize;
+
+// Event Listeners
 startBtn.addEventListener("click", startGame);
 themeToggle.addEventListener("change", toggleTheme);
+document.addEventListener("keydown", handleDirectionChange);
 
-// Start Game Function
+// Initialize on load
+window.onload = () => {
+  applySavedTheme();
+  displayLeaderboard();
+};
+
+// Start Game
 function startGame() {
   if (gameStarted) return;
-  gameStarted = true;
-  score = 0;
+
   snake = [{ x: 10, y: 10 }];
-  food = spawnFood();
+  food = generateFood();
   direction = "right";
+  score = 0;
+  gameStarted = true;
   updateScore();
-  gameInterval = setInterval(gameLoop, 100);
   bgMusic.play();
+  gameInterval = setInterval(updateGame, 100);
 }
 
-// Game Loop Function
-function gameLoop() {
+// Game Loop
+function updateGame() {
   const head = { ...snake[0] };
 
-  if (direction === "right") head.x++;
-  if (direction === "left") head.x--;
-  if (direction === "up") head.y--;
-  if (direction === "down") head.y++;
+  switch (direction) {
+    case "up": head.y--; break;
+    case "down": head.y++; break;
+    case "left": head.x--; break;
+    case "right": head.x++; break;
+  }
 
-  // Check for collisions with walls or self
-  if (head.x < 0 || head.y < 0 || head.x >= 30 || head.y >= 30 || snake.some(seg => seg.x === head.x && seg.y === head.y)) {
-    clearInterval(gameInterval);
-    saveScore();
-    alert("Game Over! Your score: " + score);
-    bgMusic.pause();
+  // Collision detection
+  if (
+    head.x < 0 || head.x >= gridSize ||
+    head.y < 0 || head.y >= gridSize ||
+    snake.some(segment => segment.x === head.x && segment.y === head.y)
+  ) {
+    endGame();
     return;
   }
 
   snake.unshift(head);
 
-  // Check if snake eats food
   if (head.x === food.x && head.y === food.y) {
     score++;
     updateScore();
-    food = spawnFood();
+    food = generateFood();
     gameSound.play();
   } else {
     snake.pop();
   }
 
-  drawGame();
+  draw();
 }
 
-// Spawn food at random location
-function spawnFood() {
-  const x = Math.floor(Math.random() * 30);
-  const y = Math.floor(Math.random() * 30);
-  return { x, y };
+// End Game
+function endGame() {
+  clearInterval(gameInterval);
+  bgMusic.pause();
+  bgMusic.currentTime = 0;
+  alert("Game Over! Your score: " + score);
+  gameStarted = false;
+  saveScore();
 }
 
-// Draw the game elements
-function drawGame() {
-  const context = canvas.getContext("2d");
-  context.clearRect(0, 0, canvas.width, canvas.height);
+// Draw Snake and Food
+function draw() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-  // Draw snake
-  snake.forEach(segment => {
-    context.fillStyle = "#00FF00";
-    context.fillRect(segment.x * 10, segment.y * 10, 10, 10);
-  });
+  // Snake
+  ctx.fillStyle = "#00FF00";
+  snake.forEach(segment =>
+    ctx.fillRect(segment.x * tileSize, segment.y * tileSize, tileSize, tileSize)
+  );
 
-  // Draw food
-  context.fillStyle = "#FF0000";
-  context.fillRect(food.x * 10, food.y * 10, 10, 10);
+  // Food
+  ctx.fillStyle = "#FF0000";
+  ctx.fillRect(food.x * tileSize, food.y * tileSize, tileSize, tileSize);
 }
 
-// Update score display
+// Generate Food
+function generateFood() {
+  let newFood;
+  do {
+    newFood = {
+      x: Math.floor(Math.random() * gridSize),
+      y: Math.floor(Math.random() * gridSize)
+    };
+  } while (snake.some(segment => segment.x === newFood.x && segment.y === newFood.y));
+  return newFood;
+}
+
+// Handle Score
 function updateScore() {
   scoreDisplay.textContent = score;
 }
 
-// Save score to leaderboard
+// Save and Display Leaderboard
 function saveScore() {
   leaderboard.push(score);
   leaderboard.sort((a, b) => b - a);
-  leaderboard = leaderboard.slice(0, 5); // Keep only top 5
-  localStorage.setItem('leaderboard', JSON.stringify(leaderboard));
+  leaderboard = leaderboard.slice(0, 5);
+  localStorage.setItem("leaderboard", JSON.stringify(leaderboard));
   displayLeaderboard();
 }
 
-// Display leaderboard
 function displayLeaderboard() {
   leaderboardList.innerHTML = "";
   leaderboard.forEach(score => {
@@ -114,28 +146,45 @@ function displayLeaderboard() {
   });
 }
 
-// Toggle Theme
+// Theme Toggle
 function toggleTheme() {
-  if (themeToggle.checked) {
-    isDarkMode = true;
+  isDarkMode = themeToggle.checked;
+  document.body.classList.toggle("dark-mode", isDarkMode);
+  document.body.classList.toggle("light-mode", !isDarkMode);
+  localStorage.setItem("snakeTheme", isDarkMode ? "dark" : "light");
+}
+
+// Apply Saved Theme
+function applySavedTheme() {
+  const savedTheme = localStorage.getItem("snakeTheme");
+  if (savedTheme === "dark") {
+    themeToggle.checked = true;
     document.body.classList.add("dark-mode");
-    document.body.classList.remove("light-mode");
   } else {
-    isDarkMode = false;
+    themeToggle.checked = false;
     document.body.classList.add("light-mode");
-    document.body.classList.remove("dark-mode");
   }
 }
 
-// Keyboard controls
-document.addEventListener("keydown", (event) => {
-  if (event.key === "ArrowUp" && direction !== "down") direction = "up";
-  if (event.key === "ArrowDown" && direction !== "up") direction = "down";
-  if (event.key === "ArrowLeft" && direction !== "right") direction = "left";
-  if (event.key === "ArrowRight" && direction !== "left") direction = "right";
-});
+// Keyboard Controls
+function handleDirectionChange(event) {
+  const key = event.key;
 
-// Initial setup
-window.onload = () => {
-  displayLeaderboard();
-};
+  const directions = {
+    ArrowUp: "up",
+    ArrowDown: "down",
+    ArrowLeft: "left",
+    ArrowRight: "right"
+  };
+
+  const opposite = {
+    up: "down",
+    down: "up",
+    left: "right",
+    right: "left"
+  };
+
+  if (directions[key] && directions[key] !== opposite[direction]) {
+    direction = directions[key];
+  }
+}
