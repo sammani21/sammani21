@@ -125,7 +125,7 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 ## 🎮 Try My Custom GitHub Game – "Bullseye"
 Test your reflexes and hit the target 🎯  
-👉 [Play Now](https://sammani21.github.io/sammani21/bullseye.html)
+👉 [Play Now](https://sammani21.github.io/sammani21/index.html)
 
 
 ## 📝 Latest Blog Posts
