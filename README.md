@@ -125,21 +125,36 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 ## 🎮 Play My GitHub Games
 
-Explore fun web games built with HTML, CSS, and JavaScript. Boost your reflexes, challenge your brain, and enjoy sleek game UIs — all crafted by me!
+<div align="center">
 
----
+<p>Explore fun browser-based games crafted using HTML, CSS, and JavaScript. Test your reflexes and enjoy sleek, interactive experiences built by me!</p>
 
-### 🎯 Bullseye  
-**Sharpen your precision!** Hit the moving target before time runs out. A fast-paced game to test your focus and reaction time.
+<br/>
 
-👉 [🔫 Play Bullseye](https://sammani21.github.io/sammani21/bullseye.html)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/emoji/96/000000/direct-hit-emoji.png" width="60" alt="Bullseye" />
+      <h3>Bullseye</h3>
+      <p><i>Sharpen your precision!</i><br/>Hit the moving target before time runs out in this fast-paced reflex game.</p>
+      <a href="https://sammani21.github.io/sammani21/bullseye.html">
+        <img src="https://img.shields.io/badge/🔫 Play Now-6C63FF?style=for-the-badge&logo=html5&logoColor=white" />
+      </a>
+    </td>
+    
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/emoji/96/000000/snake-emoji.png" width="60" alt="Snake Game" />
+      <h3>Snake Game</h3>
+      <p><i>Classic with a twist!</i><br/>Guide the snake, collect food, and avoid crashing. Includes music, theme toggle, and local high scores!</p>
+      <a href="https://sammani21.github.io/sammani21/index.html">
+        <img src="https://img.shields.io/badge/🐍 Play Now-6C63FF?style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+</div>
 
-### 🐍 Snake Game  
-**Classic with a twist!** Navigate the snake, collect food, and climb the leaderboard. Includes theme switcher, music, and local high scores!
-
-👉 [🐍 Play Snake Game](https://sammani21.github.io/sammani21/index.html)
 
 
 
