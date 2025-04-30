@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Bullseye</title>
+  <style>
+    body {
+      margin: 0;
+      background: #0D1117;
+      overflow: hidden;
+      font-family: 'Courier New', monospace;
+      color: white;
+    }
+    #target {
+      position: absolute;
+      width: 50px;
+      cursor: crosshair;
+      transition: transform 0.2s ease;
+    }
+    #scoreboard {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <div id="scoreboard">🎯 Hits: 0</div>
+  <img id="target" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+
+  <script>
+    const target = document.getElementById('target');
+    const scoreboard = document.getElementById('scoreboard');
+    let hits = 0;
+
+    function moveTarget() {
+      const x = Math.random() * (window.innerWidth - 50);
+      const y = Math.random() * (window.innerHeight - 50);
+      target.style.left = `${x}px`;
+      target.style.top = `${y}px`;
+    }
+
+    target.addEventListener('click', () => {
+      hits++;
+      scoreboard.innerText = `🎯 Hits: ${hits}`;
+      target.style.transform = "scale(1.2)";
+      setTimeout(() => target.style.transform = "scale(1)", 100);
+      moveTarget();
+    });
+
+    window.onload = moveTarget;
+    setInterval(moveTarget, 2000); // move every 2s
+  </script>
+</body>
+</html>
