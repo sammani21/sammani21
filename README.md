@@ -44,6 +44,11 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 <br clear="right"/>
 
+## 🎮 Try My Custom GitHub Game – "Bullseye"
+Click the target and test your reflexes 🎯  
+[🔗 Play GitHub Bullseye](https://sammani21.github.io/your-repo-name/bullseye.html)
+
+
 ## 🛠️ Tech Stack & Tools
 
 <details open>
