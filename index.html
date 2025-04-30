@@ -1,39 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Snake Game</title>
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🐍 Snake Game</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-
   <div id="game-container">
-    <h1>Snake Game</h1>
-    <button id="startBtn">Start Game</button>
-    <div id="scoreboard">
+    <header>
+      <h1 class="game-title">🐍 Snake Game</h1>
+      <button id="startBtn" class="btn">🎮 Start Game</button>
+    </header>
+
+    <section id="scoreboard">
       <p>Score: <span id="score">0</span></p>
-    </div>
+    </section>
 
-    <div id="game-canvas"></div>
+    <section id="canvas-wrapper">
+      <canvas id="gameCanvas" width="400" height="400"></canvas>
+    </section>
 
-    <div id="leaderboard">
-      <h3>Leaderboard</h3>
+    <section id="leaderboard">
+      <h3>🏆 Leaderboard</h3>
       <ul id="scoreList">
-        <!-- Top scores will appear here -->
+        <!-- Top scores will be dynamically inserted here -->
       </ul>
-    </div>
+    </section>
 
-    <div id="theme-switcher">
-      <label for="themeToggle">Switch Theme: </label>
-      <input type="checkbox" id="themeToggle">
-    </div>
+    <footer>
+      <div id="theme-switcher">
+        <label for="themeToggle">🌗 Switch Theme:</label>
+        <input type="checkbox" id="themeToggle" checked />
+      </div>
+    </footer>
 
+    <!-- Background Music and Game Sounds -->
     <audio id="bg-music" loop>
-      <source src="background-music.mp3" type="audio/mpeg">
+      <source src="background-music.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
     </audio>
     <audio id="game-sound">
-      <source src="game-sound.mp3" type="audio/mpeg">
+      <source src="game-sound.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
     </audio>
   </div>
 
