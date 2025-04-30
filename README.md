@@ -123,9 +123,24 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
   <!-- Add more featured projects as needed -->
 </div>
 
-## 🎮 Try My Custom GitHub Game – "Bullseye"
-Test your reflexes and hit the target 🎯  
-👉 [Play Now](https://sammani21.github.io/sammani21/index.html)
+## 🎮 Play My GitHub Games
+
+Explore fun web games built with HTML, CSS, and JavaScript. Boost your reflexes, challenge your brain, and enjoy sleek game UIs — all crafted by me!
+
+---
+
+### 🎯 Bullseye  
+**Sharpen your precision!** Hit the moving target before time runs out. A fast-paced game to test your focus and reaction time.
+
+👉 [🔫 Play Bullseye](https://sammani21.github.io/sammani21/bullseye.html)
+
+---
+
+### 🐍 Snake Game  
+**Classic with a twist!** Navigate the snake, collect food, and climb the leaderboard. Includes theme switcher, music, and local high scores!
+
+👉 [🐍 Play Snake Game](https://sammani21.github.io/sammani21/index.html)
+
 
 
 ## 📝 Latest Blog Posts
