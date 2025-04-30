@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sammani+Rajasooriya;Software+Engineering+Enthusiast;Full-Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Kavindhya+Sammani+Rajasooriya;👩‍💻+Software+Engineering+Enthusiast+%7C+Full-Stack+Developer;🚀+Flutter+%7C+Firebase+%7C+React+%7C+Node.js;💡+Problem+Solver+and+Tech+Blogger;🌱+Always+Learning%2C+Always+Building;🎯+Dreaming+of+Impactful+Software" alt="Typing SVG" />
+</p>
+
 </div>
 
 <div align="center">
@@ -128,6 +131,7 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammani21&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
+
 
 ## 💭 Quote of the Day
 
