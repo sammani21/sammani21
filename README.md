@@ -129,7 +129,6 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Game On Banner"/>
 
 <p>Explore fun browser-based games crafted using HTML, CSS, and JavaScript. Test your reflexes and enjoy sleek, interactive experiences built by me!</p>
 
