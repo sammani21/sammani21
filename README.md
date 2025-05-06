@@ -159,11 +159,33 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 ## 📝 Latest Blog Posts
 
-- [The Power of Talent Management in Shaping the IT Industry’s Future](https://medium.com/@KavindhyaSammani/the-power-of-talent-management-in-shaping-the-it-industrys-future-eb327c1211e6)  
-  *A blog describes how to use talent management in the tech industry.*
+<div align="center">
 
-- [Mastering Bitbucket: From Beginner to Pro](https://medium.com/@KavindhyaSammani/mastering-bitbucket-from-beginner-to-pro-998676c5b700)  
-  *A blog series continuing on version control using Bitbucket.*
+<p>Discover insightful and practical reads tailored for tech enthusiasts, aspiring professionals, and developers. Dive into talent strategies and version control like a pro!</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>The Power of Talent Management</h3>
+      <p><i>Shaping the Future of Tech!</i><br/>Learn how effective talent management drives innovation and growth in the IT industry.</p>
+      <a href="https://medium.com/@KavindhyaSammani/the-power-of-talent-management-in-shaping-the-it-industrys-future-eb327c1211e6">
+        <img src="https://img.shields.io/badge/📘 Read Blog-6C63FF?style=for-the-badge&logo=medium&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Mastering Bitbucket</h3>
+      <p><i>From Beginner to Pro!</i><br/>Explore powerful version control techniques with this hands-on Bitbucket guide series.</p>
+      <a href="https://medium.com/@KavindhyaSammani/mastering-bitbucket-from-beginner-to-pro-998676c5b700">
+        <img src="https://img.shields.io/badge/📘 Read Blog-6C63FF?style=for-the-badge&logo=bitbucket&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 
 
