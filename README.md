@@ -158,35 +158,9 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 ## 📝 Latest Blog Posts
 
-<ul id="latest-blog-posts">
-  <li>Loading latest blog posts...</li>
-</ul>
-
-<script>
-  async function loadMediumPosts() {
-    const rssFeed = 'https://medium.com/feed/@KavindhyaSammani';
-    const rssToJson = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssFeed)}`;
-
-    try {
-      const response = await fetch(rssToJson);
-      const data = await response.json();
-
-      const posts = data.items.slice(0, 2); // Get latest 2 posts
-      const blogList = document.getElementById('latest-blog-posts');
-      blogList.innerHTML = '';
-
-      posts.forEach(post => {
-        const listItem = document.createElement('li');
-        listItem.innerHTML = `<a href="${post.link}" target="_blank">${post.title}</a>`;
-        blogList.appendChild(listItem);
-      });
-    } catch (error) {
-      document.getElementById('latest-blog-posts').innerHTML = '<li>Failed to load posts.</li>';
-    }
-  }
-
-  loadMediumPosts();
-</script>
+<!-- BLOG-POST-LIST:START -->
+- [Check out my articles on Medium!](https://medium.com/@KavindhyaSammani)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 📈 Coding Activity
