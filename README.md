@@ -159,9 +159,8 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Check out my articles on Medium!](https://medium.com/@KavindhyaSammani)
-<!-- BLOG-POST-LIST:END -->
+- [The Power of Talent Management in Shaping the IT Industry’s Future](https://medium.com/@KavindhyaSammani/the-power-of-talent-management-in-shaping-the-it-industrys-future-eb327c1211e6)
+
 
 
 ## 📈 Coding Activity
