@@ -157,34 +157,41 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 
 
 
-## 📝 Latest Blog Posts
+## 📝 Dive Into My Latest Writings
 
 <div align="center">
 
-<p>Discover insightful and practical reads tailored for tech enthusiasts, aspiring professionals, and developers. Dive into talent strategies and version control like a pro!</p>
+✨ From tech trends to hands-on tutorials, these blogs are crafted to **inspire, guide, and level up your journey** in the IT world.
 
-<br/>
+---
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>The Power of Talent Management</h3>
-      <p><i>Shaping the Future of Tech!</i><br/>Learn how effective talent management drives innovation and growth in the IT industry.</p>
+      <img src="https://img.icons8.com/ios-filled/100/6C63FF/brainstorm-skill.png" width="60" />
+      <h3><b><i>The Power of Talent Management</i></b></h3>
+      <p>💡 Ever wondered how the **tech giants build unstoppable teams**?<br/>
+      Discover the secrets of smart hiring, motivation, and innovation that shape the IT industry's future.</p>
       <a href="https://medium.com/@KavindhyaSammani/the-power-of-talent-management-in-shaping-the-it-industrys-future-eb327c1211e6">
-        <img src="https://img.shields.io/badge/📘 Read Blog-6C63FF?style=for-the-badge&logo=medium&logoColor=white" />
+        <img src="https://img.shields.io/badge/🚀 Read Now-6C63FF?style=for-the-badge&logo=medium&logoColor=white" />
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>Mastering Bitbucket From Beginner to Pro!</h3>
-      <p><i>Be the Best!</i><br/>Explore powerful version control techniques with this hands-on Bitbucket guide series.</p>
+      <img src="https://img.icons8.com/ios-filled/100/6C63FF/git.png" width="60" />
+      <h3><b><i>Mastering Bitbucket</i></b></h3>
+      <p>🛠️ New to version control or want to sharpen your skills?<br/>
+      This series takes you from **zero to Bitbucket hero**—with practical steps, tips, and visuals.</p>
       <a href="https://medium.com/@KavindhyaSammani/mastering-bitbucket-from-beginner-to-pro-998676c5b700">
-        <img src="https://img.shields.io/badge/📘 Read Blog-6C63FF?style=for-the-badge&logo=bitbucket&logoColor=white" />
+        <img src="https://img.shields.io/badge/📘 Start Learning-6C63FF?style=for-the-badge&logo=bitbucket&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
 
 </div>
+
+
+
 
 
 
