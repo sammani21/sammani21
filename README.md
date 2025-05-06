@@ -175,8 +175,8 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>Mastering Bitbucket</h3>
-      <p><i>From Beginner to Pro!</i><br/>Explore powerful version control techniques with this hands-on Bitbucket guide series.</p>
+      <h3>Mastering Bitbucket From Beginner to Pro!</h3>
+      <p><i>Be the Best!</i><br/>Explore powerful version control techniques with this hands-on Bitbucket guide series.</p>
       <a href="https://medium.com/@KavindhyaSammani/mastering-bitbucket-from-beginner-to-pro-998676c5b700">
         <img src="https://img.shields.io/badge/📘 Read Blog-6C63FF?style=for-the-badge&logo=bitbucket&logoColor=white" />
       </a>
