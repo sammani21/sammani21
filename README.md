@@ -112,7 +112,7 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sammani21&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KavindhyaSammani&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
