@@ -119,11 +119,21 @@ I'm a passionate software engineering enthusiast pursuing my BSc. (Hons) in Info
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sammani21/project1">
+
+  <!-- Portfolio -->
+  <a href="https://github.com/sammani21/sammaniRajasooriya-portfoliosite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammani21&repo=sammaniRajasooriya-portfoliosite&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <!-- Add more featured projects as needed -->
+
+  <!-- FITPRO -->
+  <a href="https://github.com/sammani21/fitpro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammani21&repo=fitpro&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+
 </div>
+
+ 
+
 
 ## 🎮 Play My GitHub Games
 
